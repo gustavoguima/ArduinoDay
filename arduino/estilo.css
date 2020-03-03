@@ -1,0 +1,27 @@
+
+#inicio{
+	
+	background-color: #6B238E;
+	text-align: center;
+}
+
+#cor {
+	color: white;
+}
+#principal {
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+h1{
+	
+	color: #000000;
+	padding: 10px;
+}
+
+body {
+	font-size: 1em;
+	font-family: "Trebuchet MS",Helvetica, sans-serif;
+	background: #e6e6e6;
+}
