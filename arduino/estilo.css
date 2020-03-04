@@ -9,15 +9,28 @@
 	color: white;
 }
 #principal {
-	width: 920px;
+	width: 850px;
 	margin: 0 auto;
 	padding: 15px;
+	background: white;
 }
+#lateral{
+	float: right;
+	font-size: 0.8em;
+	width: 200px;
 
+	border: 7px solid #6B238E;
+
+}
+#fonte{
+	font-family: Snell Roundhand, cursive;
+}
 h1{
-	
+	font-family: Georgia, serif;
 	color: #000000;
 	padding: 10px;
+	
+
 }
 
 body {
@@ -25,3 +38,10 @@ body {
 	font-family: "Trebuchet MS",Helvetica, sans-serif;
 	background: #e6e6e6;
 }
+p{
+	width: 600px;
+	padding: 5px;
+	margin: 5px;
+	color:#6B238E;
+}
+
